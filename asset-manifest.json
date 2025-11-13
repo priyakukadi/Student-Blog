@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Student-Blog/static/css/main.3b38910b.css",
-    "main.js": "/Student-Blog/static/js/main.343e9ac4.js",
+    "main.js": "/Student-Blog/static/js/main.9446309f.js",
     "index.html": "/Student-Blog/index.html",
     "main.3b38910b.css.map": "/Student-Blog/static/css/main.3b38910b.css.map",
-    "main.343e9ac4.js.map": "/Student-Blog/static/js/main.343e9ac4.js.map"
+    "main.9446309f.js.map": "/Student-Blog/static/js/main.9446309f.js.map"
   },
   "entrypoints": [
     "static/css/main.3b38910b.css",
-    "static/js/main.343e9ac4.js"
+    "static/js/main.9446309f.js"
   ]
 }
